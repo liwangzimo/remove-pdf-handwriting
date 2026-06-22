@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+clean_preview/
+*_preview/
+/openai.yaml

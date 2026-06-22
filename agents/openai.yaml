@@ -1,0 +1,4 @@
+interface:
+  display_name: "Remove PDF Handwriting"
+  short_description: "Remove red, blue, and selected black handwriting from PDFs."
+  default_prompt: "Remove handwriting marks from this PDF and output a clean copy."
